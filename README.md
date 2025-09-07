@@ -1,3 +1,5 @@
+<img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/b4835901-c2e8-4c58-96b6-90dc2c3038af" />
+
 ### ステップ1: リポジトリの追加
 1. **「設定」ボタン**をクリック
 2. **「リポジトリ管理」タブ**で以下のいずれかを入力:
